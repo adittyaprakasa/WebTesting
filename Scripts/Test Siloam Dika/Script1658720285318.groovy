@@ -28,5 +28,4 @@ WebUI.click(findTestObject('Object Repository/Page_Login Form  Dika/button_Login
 WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Page_Login Form  Dika/input_Username_username'), 'required', 
     'true', 0)
 
-WebUI.closeBrowser()
 
