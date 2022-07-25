@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Permananet Address Jakarta</name>
+   <tag></tag>
+   <elementGuidId>ff66b380-3f5d-40c6-b14a-edaa31b05adf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='permanentAddress']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.border.col-md-12.col-sm-12 > #permanentAddress</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e1d14932-721a-4903-8384-14cd535485b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>permanentAddress</value>
+      <webElementGuid>d4ccb15f-dabb-4f7b-92db-3cda20f5a53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1</value>
+      <webElementGuid>5c2e9898-e351-4a13-b562-2c0350da80c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permananet Address :Jakarta</value>
+      <webElementGuid>49b7cd5b-9874-45ab-b37d-70ea3bd26cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;border col-md-12 col-sm-12&quot;]/p[@id=&quot;permanentAddress&quot;]</value>
+      <webElementGuid>6b2dbb7b-5c53-4c45-aab2-2ad0aa2c3e76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='permanentAddress']</value>
+      <webElementGuid>d7f65313-4b62-4f87-954d-56cfd310af64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div/p[4]</value>
+      <webElementGuid>7b15ddbb-534f-4d2c-812a-a9c4d31b35fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::p[4]</value>
+      <webElementGuid>19970041-f19c-4470-9908-12fb24bdf08f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Address'])[1]/following::p[4]</value>
+      <webElementGuid>14e89c00-7cb7-4b04-814c-a1b408bf88c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::p[1]</value>
+      <webElementGuid>f6797d75-d1ff-4b99-820b-48fae1952625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[1]</value>
+      <webElementGuid>0623f940-3bd7-41fb-8570-e5b7da9ee585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Permananet Address :']/parent::*</value>
+      <webElementGuid>0232a1ce-a99a-429b-933e-9c0ca6456e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>819b2728-cc55-4632-b819-a264d60bfc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'permanentAddress' and (text() = 'Permananet Address :Jakarta' or . = 'Permananet Address :Jakarta')]</value>
+      <webElementGuid>daf9f630-d934-4a3f-8e91-37d422a4b03f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

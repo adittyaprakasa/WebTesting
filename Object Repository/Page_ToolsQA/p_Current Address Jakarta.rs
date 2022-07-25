@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Current Address Jakarta</name>
+   <tag></tag>
+   <elementGuidId>c806fc83-9581-4f25-9c64-7fad5c325cdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='currentAddress']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.border.col-md-12.col-sm-12 > #currentAddress</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>51a0f2dd-1b44-41df-8a10-f3bbf98f4f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>currentAddress</value>
+      <webElementGuid>96e133ec-59bf-41de-ad29-8a09fd7a0573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1</value>
+      <webElementGuid>fa2be836-d988-4dad-9c1f-95e8997d1515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Current Address :Jakarta </value>
+      <webElementGuid>72b72d42-2e4e-43dc-8c98-af14f6c609a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;border col-md-12 col-sm-12&quot;]/p[@id=&quot;currentAddress&quot;]</value>
+      <webElementGuid>b2a327a6-ae24-45f4-bdfe-db81ed06f60d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='currentAddress']</value>
+      <webElementGuid>d5d57660-a53a-46d7-8b73-3c8ea5f3d05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div/p[3]</value>
+      <webElementGuid>7b6b82d3-a5cc-4706-8459-cb062343ce4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::p[3]</value>
+      <webElementGuid>e8490612-9b9c-4485-a109-1e40e40266c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Address'])[1]/following::p[3]</value>
+      <webElementGuid>50089a1e-52c7-4c22-96cd-e1f5de8db94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::p[2]</value>
+      <webElementGuid>5983b90e-e93d-4649-9db5-c755323ff0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[2]</value>
+      <webElementGuid>9d8a63e7-ced1-4e4e-a665-1be2ea7f4370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Current Address :']/parent::*</value>
+      <webElementGuid>586c74d1-5f80-4887-8da5-8674db6cbc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>0f7d66f5-25fe-4910-8e4a-185281042c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'currentAddress' and (text() = 'Current Address :Jakarta ' or . = 'Current Address :Jakarta ')]</value>
+      <webElementGuid>cfe8b89c-6f21-40ba-aed0-ac7366cd886c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
