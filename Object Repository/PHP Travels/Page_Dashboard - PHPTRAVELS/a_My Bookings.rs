@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Bookings</name>
+   <tag></tag>
+   <elementGuidId>fa1825ec-33b7-49b7-9a50-1d0e9f51552a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fadein']/div/div/div[3]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b391853e-acc7-4aa8-a847-cc25caca0012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://phptravels.net/account/bookings</value>
+      <webElementGuid>7ae2da63-cb01-4997-a4e5-2a754dd3138f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> waves-effect</value>
+      <webElementGuid>512df18e-b7f6-489e-9b11-2d75c86b489c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> My Bookings</value>
+      <webElementGuid>7bdebe2f-42bb-44b7-a730-bbafecb75d1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fadein&quot;)/div[@class=&quot;sidebar-nav&quot;]/div[@class=&quot;sidebar-nav-body&quot;]/div[@class=&quot;sidebar-menu-wrap&quot;]/ul[@class=&quot;sidebar-menu list-items&quot;]/li[2]/a[@class=&quot;waves-effect&quot;]</value>
+      <webElementGuid>aaee9247-645c-4e2b-844c-05a1a56bc7c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fadein']/div/div/div[3]/ul/li[2]/a</value>
+      <webElementGuid>ec003e0d-ab7a-4e3e-bf3e-5e3bb77d0d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'My Bookings')])[2]</value>
+      <webElementGuid>99cfbe5f-1148-4e9b-937b-f24fbe8d6e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::a[1]</value>
+      <webElementGuid>7e9350e0-28df-49ff-afd7-e4439cd08662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome Back'])[1]/following::a[2]</value>
+      <webElementGuid>9365f890-2696-4627-80f4-85490cda30b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Funds'])[2]/preceding::a[1]</value>
+      <webElementGuid>79d8dc04-e18b-4c59-9f20-d379c0290fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[2]/preceding::a[2]</value>
+      <webElementGuid>3b50371d-ac7a-4e3a-b7be-4c93ffd16d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://phptravels.net/account/bookings')])[2]</value>
+      <webElementGuid>0b060eae-0e6a-438b-b5eb-ab59295fa773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]/a</value>
+      <webElementGuid>54543da4-06f9-4567-9a71-14fc00b8d818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://phptravels.net/account/bookings' and (text() = ' My Bookings' or . = ' My Bookings')]</value>
+      <webElementGuid>7731f617-a8cb-4f31-9f4b-a8d624d7f905</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

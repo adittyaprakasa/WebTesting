@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_( 1 )</name>
+   <tag></tag>
+   <elementGuidId>d6e0825e-dda2-470a-8420-0f41d63fcadc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fadein']/section/div/div[2]/div/div/div/div/div/div/span/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.color-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>c71bf16c-3a74-4d87-828f-7f5fe26dda00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color-text</value>
+      <webElementGuid>e6c6937e-3a4b-42da-88a2-f3686cf690d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>( 1 )</value>
+      <webElementGuid>1c59c601-ab86-4a3f-83ea-d623c609f543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fadein&quot;)/section[@class=&quot;dashboard-area&quot;]/div[@class=&quot;dashboard-content-wrap&quot;]/div[@class=&quot;dashboard-main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;form-box&quot;]/div[@class=&quot;form-title-wrap&quot;]/div[@class=&quot;d-flex align-items-center justify-content-between&quot;]/span[1]/strong[@class=&quot;color-text&quot;]</value>
+      <webElementGuid>6a1f421e-f88b-4c3a-99bd-0d60d99fef81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fadein']/section/div/div[2]/div/div/div/div/div/div/span/strong</value>
+      <webElementGuid>d97b9a88-d5b8-407e-bf72-882a555e5164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Bookings'])[3]/following::strong[1]</value>
+      <webElementGuid>596f2df6-b393-43be-92d0-40a58ea41207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/preceding::strong[1]</value>
+      <webElementGuid>0262fe5b-7e43-47fe-8b00-41d39f065aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates'])[1]/preceding::strong[1]</value>
+      <webElementGuid>915ca7fa-8529-4d5b-8c48-89e04e45ef16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='( 1 )']/parent::*</value>
+      <webElementGuid>af4e45e1-546f-40c6-bf8a-8bfaa4ab4731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/strong</value>
+      <webElementGuid>ef29db2b-5242-4385-8fb3-03cf7f0cf832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '( 1 )' or . = '( 1 )')]</value>
+      <webElementGuid>8480c91a-7f91-4cc5-a648-451bd431f597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

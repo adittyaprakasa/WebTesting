@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Welcome Back</name>
+   <tag></tag>
+   <elementGuidId>a98eae24-a8af-45f1-a5fd-d4f3e88181ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fadein']/div/div/div[2]/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.author__meta</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9419c8d1-c33a-48a0-acd9-defdabf4ffe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>author__meta</value>
+      <webElementGuid>ed653a6a-6f06-4fb4-88ff-59d306c8ae7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome Back</value>
+      <webElementGuid>b51304c8-c645-4bdf-a26a-303f96929098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fadein&quot;)/div[@class=&quot;sidebar-nav&quot;]/div[@class=&quot;sidebar-nav-body&quot;]/div[@class=&quot;author-content&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;author-bio&quot;]/span[@class=&quot;author__meta&quot;]</value>
+      <webElementGuid>6a43aba2-b685-4167-ad48-f7dc87db520b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fadein']/div/div/div[2]/div/div[2]/span</value>
+      <webElementGuid>afda2ef7-e836-46cf-a7ec-b523a13bfa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo'])[1]/following::span[1]</value>
+      <webElementGuid>cc9905ef-943d-4e8f-936e-f6f3b2cab01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to Book'])[1]/following::span[1]</value>
+      <webElementGuid>4ccf0bd4-68c2-43e1-8ffe-a4383a6b4910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[1]</value>
+      <webElementGuid>c5e6040a-8010-4466-92fe-fc4546ba665d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Bookings'])[2]/preceding::span[1]</value>
+      <webElementGuid>004771f0-f4f2-4d9e-9142-3d9c277b5bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome Back']/parent::*</value>
+      <webElementGuid>321c9c88-aa66-4613-b026-8dd0dec73c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>46aa3c12-4d16-40fd-8978-ac4e7cd61921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Welcome Back' or . = 'Welcome Back')]</value>
+      <webElementGuid>1877fd21-b4a7-47bd-b994-6b464f4392b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
